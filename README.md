@@ -86,3 +86,13 @@ Open index.html in any modern web browser (Chrome, Firefox, Edge).<br>
 Ensure that the addons/ folder contains the necessary images and downloadable assets (e.g., CV PDF).<br>
 
 No additional server setup is required; it's a pure static site.<br>
+
+
+## Collaqborators<br>
+Mwangi Wambugu<br>
+Zumrati Yusuf<br>
+Raphael Ochieng'<br>
+Mercy Njoroge<br>
+Velile Mifi<br>
+Neo Mokoele<br>
+Aileen Nyathi<br>
