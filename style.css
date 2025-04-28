@@ -83,7 +83,7 @@ section { padding: 50px 0; }
 .grid { display: grid; gap: 30px; }
 
 
-.intro { background-image: url("https://previews.123rf.com/images/vska/vska1607/vska160700053/60629271-resumen-cabecera-del-sitio-web-digital-fondo-de-tecnolog%C3%ADa-de-banner.jpg")}
+.intro { background-image: url("https://images.pexels.com/photos/1029624/pexels-photo-1029624.jpeg?auto=compress&cs=tinysrgb&w=600")}
 
 #contact-info{
 background-image: url("https://t4.ftcdn.net/jpg/05/04/78/25/240_F_504782581_LHwsDbXlrFiiadWC4i15yV2lhbJnB8g0.jpg");
@@ -172,18 +172,3 @@ background-position: center;
     color: inherit;
 }
 
-@media (min-width:600px)and (max-width: 899px) {
-    
-    
-}
-
-
-@media (min-width:900px) and (max-width: 1000px) {
-   
-}
-    
-
-
-@media (min-width:1001px) and (max-width: 1200px) {
-    
-}
